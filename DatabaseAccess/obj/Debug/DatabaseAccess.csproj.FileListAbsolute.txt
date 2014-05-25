@@ -1,0 +1,27 @@
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.exe
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.pdb
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\App_data\testdatabase.mdf
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\App_data\testdatabase_log.ldf
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.exe.config
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.exe
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.pdb
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\FluentNHibernate.dll
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\Iesi.Collections.dll
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\NHibernate.dll
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\FluentNHibernate.xml
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\Iesi.Collections.xml
+C:\Users\tom.harris\Documents\Visual Studio 2013\Projects\DatabaseTest\DatabaseTest\bin\Debug\NHibernate.xml
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseTest.exe.config
+C:\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseTest.exe
+C:\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseTest.pdb
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\App_data\testdatabase.mdf
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\App_data\testdatabase_log.ldf
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseTest.exe
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\DatabaseTest.pdb
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\FluentNHibernate.dll
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\Iesi.Collections.dll
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\NHibernate.dll
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\FluentNHibernate.xml
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\Iesi.Collections.xml
+C:\DatabaseAccess\DatabaseAccess\bin\Debug\NHibernate.xml
+C:\DatabaseAccess\DatabaseAccess\obj\Debug\DatabaseAccess.csprojResolveAssemblyReference.cache
